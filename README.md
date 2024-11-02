@@ -13,6 +13,40 @@ I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science E
 ---
 
 ### 💻 Languages & Tools
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Machine Learning</strong></td>
+      <td align="center"><strong>Web-development</strong></td>
+      <td align="center"><strong>Data Analysis</strong></td>
+      <td align="center"><strong>Languages</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=scikit-learn, numpy, pandas, jupyter notebook" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=HTML, CSS, React, Next.js, Node.js, MongoDB, Figma" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=MATLAB, Simulink, overleaf" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=Python, C++, Java, JavaScript, Typescript" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 - **Programming Languages**: Python, C++, Java, JavaScript, Typescript
 - **Frameworks & Libraries**: React, Next.js, Node.js, MongoDB, scikit-learn, pandas, NumPy
 - **Tools**: Figma, Jupyter Notebook, MATLAB, Simulink, Hugging Face API
