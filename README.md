@@ -1,6 +1,8 @@
 # Hi there! I'm Serena Kim 👋
 
-I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science Engineering and Film in the Honors Program. Coming to the United States at 14, I grew up watching YouTube videos to practice my English. So, I genuinely believe in the power of technology to bridge communities and make opportunities more accessible - because I simply wouldn't be here without it. 
+I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science Engineering and Film in the Honors Program. 
+
+Coming to the United States at 14, I grew up watching YouTube videos to practice my English. So, I genuinely believe in the power of technology to bridge communities and make opportunities more accessible - because I simply wouldn't be here without it. 
 
 ---
 
@@ -66,4 +68,4 @@ I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science E
 - **Running** 🌲 Sunset runs are my favorite, and I just love the feeling of self growth and the breeze brushing between my ears.  
 - **Creative Writing** ✍️ I genuinely believe that innovation is driven by empathy, and I love writing stories - be it screenplays or creative nonfiction. 
 
-Thanks for stopping by! ✨ Always open to new ideas and collaborations, so don’t hesitate to reach out 🚀
+Always open to new ideas and collaborations, so don’t hesitate to reach out!
