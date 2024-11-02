@@ -1,13 +1,13 @@
 # Hi there! I'm Serena Kim 👋
 
-Welcome to my GitHub! I'm a Computer Science & Linguistics student at UCLA, passionate about creating innovative solutions with a dash of creativity. From AI-powered predictions to recommendation engines, I'm on a journey to explore, build, and share.
+Welcome to my GitHub! I'm a Computer Science & Linguistics Honors student at UCLA, passionate about creating innovative solutions that make the world more inclusive for everyone. Fun fact, I only started coding when I am I'm on a journey to explore, build, and share.
 
 ---
 
 ### 🌟 About Me
-- 📚 Studying Computer Science & Linguistics at UCLA (Go Bruins!)
-- 💡 Interned at DirecTV AI Studio, building ML algorithms for media insights
-- 💻 Led projects at Funema VC, making data accessible with a custom AI chatbot
+- 📚 Projects Officer @ ACM W: I advocate for diversity and inclusion in tech at Southern California's largest CS organization. 
+- 💡 AI Studio Intern @ DirecTV via Break Through Tech AI: I built ML algorithms to predict TV show popularity with NLP, BERT, sentiment analysis.
+- 💻 Software Engineer Intern @ Funema Venture Capital: I developed an AI chatbot for querying internal portfolio company information 
 - 🎨 Lover of fun, quirky projects that bring ideas to life!
 
 ---
@@ -39,8 +39,8 @@ Welcome to my GitHub! I'm a Computer Science & Linguistics student at UCLA, pass
 ---
 
 ### 🎉 Hobbies
-- **Film Photography** 🎥 Capturing moments and exploring visual storytelling
-- **Hiking** 🌲 Finding peace (and a little adventure) outdoors
-- **Creative Writing** ✍️ Crafting short stories and screenplays that mix introspection with a bit of whimsy
+- **Film Directing** 🎥 I made a comedy short film about LinkedIn as a dating app: https://youtu.be/jApLtYwpWWI?si=gbjYLNTTKqclrcuK - with 9000 views on YouTube! 
+- **Running** 🌲 Sunset runs are my favorite, and I just love the feeling of self growth and the breeze brushing between my ears.  
+- **Creative Writing** ✍️ I genuinely believe that innovation is driven by empathy, and I love writing stories - be it screenplays or creative nonfiction. 
 
-Thanks for stopping by! ✨ Always open to new ideas and collaborations, so don’t hesitate to reach out. Happy coding! 🚀
+Thanks for stopping by! ✨ Always open to new ideas and collaborations, so don’t hesitate to reach out 🚀
