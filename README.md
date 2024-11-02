@@ -1,6 +1,6 @@
 # Hi there! I'm Serena Kim 👋
 
-Welcome to my GitHub! I'm a Computer Science & Linguistics Honors student at UCLA, passionate about creating innovative solutions that make the world more inclusive for everyone. Fun fact, I only started coding when I am I'm on a journey to explore, build, and share.
+I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science Engineering and Film in the Honors Program. Coming to the United States at 14, I grew up watching YouTube videos to practice my English. So, I genuinely believe in the power of technology to bridge communities and make opportunities more accessible - because I simply wouldn't be here without it. 
 
 ---
 
