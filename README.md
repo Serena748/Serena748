@@ -18,38 +18,27 @@ I'm a Computer Science & Linguistics student at UCLA, minoring in Data Science E
   <table>
     <tr>
       <td align="center"><strong>Machine Learning</strong></td>
-      <td align="center"><strong>Web-development</strong></td>
+      <td align="center"><strong>Web Development</strong></td>
       <td align="center"><strong>Data Analysis</strong></td>
       <td align="center"><strong>Languages</strong></td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=scikit-learn, numpy, pandas, jupyter notebook" />
-        </a>
+        scikit-learn, numpy, pandas, Jupyter Notebook
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=HTML, CSS, React, Next.js, Node.js, MongoDB, Figma" />
-        </a>
+        HTML, CSS, React, Next.js, Node.js, MongoDB, Figma
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=MATLAB, Simulink, overleaf" />
-        </a>
+        MATLAB, Simulink, Overleaf
       </td>
       <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=Python, C++, Java, JavaScript, Typescript" />
-        </a>
+        Python, C++, Java, JavaScript, TypeScript
       </td>
     </tr>
   </table>
 </p>
 
-- **Programming Languages**: Python, C++, Java, JavaScript, Typescript
-- **Frameworks & Libraries**: React, Next.js, Node.js, MongoDB, scikit-learn, pandas, NumPy
-- **Tools**: Figma, Jupyter Notebook, MATLAB, Simulink, Hugging Face API
 
 ---
 
