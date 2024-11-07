@@ -7,9 +7,9 @@ Coming to the United States at 14, I grew up watching YouTube videos to practice
 ---
 
 ### 🌟 About Me
-- 📚 Projects Officer @ ACM W: I advocate for diversity and inclusion in tech at Southern California's largest CS organization. 
+- 📚 Projects Officer @ ACM W: I advocate for diversity and inclusion in tech at Southern California's largest CS organization.  
 - 💡 AI Studio Intern @ DirecTV via Break Through Tech AI: I built ML algorithms to predict TV show popularity with NLP, BERT, sentiment analysis.
-- 💻 Software Engineer Intern @ Funema Venture Capital: I developed an AI chatbot for querying internal portfolio company information 
+- 💻 Software Engineer Intern @ Funema Venture Capital: I developed an AI chatbot for querying internal portfolio company information. 
 - 🎨 Lover of fun, quirky projects that bring ideas to life!
 
 ---
@@ -64,8 +64,8 @@ Coming to the United States at 14, I grew up watching YouTube videos to practice
 ---
 
 ### 🎉 Hobbies
-- **Film Directing** 🎥 I made a comedy short film about LinkedIn as a dating app: https://youtu.be/jApLtYwpWWI?si=gbjYLNTTKqclrcuK - with 9000 views on YouTube! 
-- **Running** 🌲 Sunset runs are my favorite, and I just love the feeling of self growth and the breeze brushing between my ears.  
-- **Creative Writing** ✍️ I genuinely believe that innovation is driven by empathy, and I love writing stories - be it screenplays or creative nonfiction. 
+- **Film Directing**: I made a [comedy short film](https://youtu.be/jApLtYwpWWI?si=gbjYLNTTKqclrcuK) about LinkedIn as a dating app - with 9000 views on YouTube! 
+- **Running**: Sunset runs are my favorite, and I just love the feeling of self growth and the breeze brushing between my ears.  
+- **Creative Writing**: I genuinely believe that innovation is driven by empathy, and I love writing stories - be it screenplays or creative nonfiction. 
 
 Always open to new ideas and collaborations, so don’t hesitate to reach out!
