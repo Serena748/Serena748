@@ -7,9 +7,10 @@ Coming to the United States at 14, I grew up watching YouTube videos to practice
 ---
 
 ### 🌟 About Me
-- 📚 Projects Officer @ ACM W: I advocate for diversity and inclusion in tech at Southern California's largest CS organization.  
-- 💡 AI Studio Intern @ DirecTV via Break Through Tech AI: I built ML algorithms to predict TV show popularity with NLP, BERT, sentiment analysis.
-- 💻 Software Engineer Intern @ Funema Venture Capital: I developed an AI chatbot for querying internal portfolio company information. 
+- 📚 Projects Officer @ **ACM W**: I advocate for **diversity** and **inclusion** in tech at Southern California's largest CS organization.  
+- 💡 AI Studio Intern @ **DirecTV** via **Break Through Tech AI**: I built ML algorithms to predict TV show popularity with NLP, BERT, sentiment analysis.
+    - Check it out [here!](https://github.com/DirecTV-Team1A-NextGen-Rec/directv_tvrec)
+- 💻 Software Engineer Intern @ **Funema Venture Capital**: I developed an AI chatbot for querying internal portfolio company information. 
 - 🎨 Lover of fun, quirky projects that bring ideas to life!
 
 ---
