@@ -53,7 +53,7 @@ Coming to the United States at 14, I grew up watching YouTube videos to practice
    Java-based tour generator that maps 200+ unique LA locations, complete with route planning and A* pathfinding!
 
 3. **[Oops I Had an Acc(id)ent](https://github.com/Serena748/accent-typing-game) (2022 U.S. Congressional App Challenge Winner - Connecticut 1st Disctrict)**  
-   Interactive typing game focused on linguistic diversity and tackling language bias. Winner of 2022 U.S. Congressional App Challenge, originally made on Scratch, a no-code block-based language. We programmed it into a real web application using the MERN stack and SQLite. 
+   Interactive typing game focused on linguistic diversity and tackling language bias. Originally made on Scratch, a no-code block-based language, we programmed it into a real web application using the MERN stack and SQLite. 
 
 ---
 
